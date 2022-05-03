@@ -1,0 +1,29 @@
+body{
+    font-family: Arial;
+  }
+  .container {
+    padding: 30px;
+    background-color: skyblue;
+  }
+  
+  input[type=text], textarea {
+    width: 48%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: white;
+    border-bottom: 2px solid black;
+  }
+  
+  .submit_btn{
+      font-size:17px;
+      border-radius: 3px;
+      letter-spacing: 2px;
+      cursor: pointer;
+      width: 50%;
+      background: orangered;
+      padding: 8px;
+      border: 0;
+      color:white;
+  }
